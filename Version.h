@@ -1,0 +1,1 @@
+#define ARMYM2151VERSION "V0.0.0"
